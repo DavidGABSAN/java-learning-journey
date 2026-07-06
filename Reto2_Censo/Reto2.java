@@ -1,9 +1,4 @@
 /*
- * Reto 2
- * Autor: David Santonja
- * Curso: 1º DAW - Módulo Programación
- * Fecha: DICIEMBRE 2025
- * 
  * Descripción:
  * Este programa permite registrar información censal referida a un pueblo y sus calles. Para ello 
  * se vale de arrays y bucles for, que permiten ir recopilando información del usuario. 
