@@ -1,9 +1,4 @@
 /*
- * Programa VENTAS - Reto 1
- * Autor: David Santonja
- * Curso: 1º DAM - Módulo Programación
- * Fecha: Febrero 2025
- * 
  * Descripción:
  * Este programa permite registrar ventas diarias y calcular o analizar:
  * - Total de ventas acumuladas a lo largo de los días introducidos.
